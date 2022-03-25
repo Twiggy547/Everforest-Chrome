@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Everforest Chrome",
+  "description": "Everforest theme for Google Chrome",
+  "version": "1.0",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [30, 35, 39],
+      "frame_inactive": [30, 35, 39],
+      "frame_incognito": [43, 51, 57],
+      "frame_incognito_inactive": [43, 51, 57],
+      "bookmark_text": [131, 192, 146],
+      "tab_background_text": [165, 155, 133],
+      "tab_background_text_inactive": [214, 153, 182],
+      "tab_background_text_incognito": [131, 192, 146],
+      "tab_background_text_incognito_inactive": [70, 81, 73],
+      "tab_text": [131, 192, 146],
+      "toolbar": [43, 51, 57],
+      "toolbar_button_icon": [131, 192, 146],
+      "omnibox_text": [248, 189, 150],
+      "omnibox_background": [30, 35, 39],
+      "ntp_background": [30, 35, 39],
+      "ntp_link": [248, 189, 150],
+      "ntp_text": [217, 224, 238],
+      "button_background": [30, 35, 39]
+    }
+  }
+}
